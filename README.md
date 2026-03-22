@@ -6,8 +6,7 @@
 ---
 
 ## 🔗 Live Demo
-
-**[stratos-chatbot.vercel.app](https://stratos-chatbot.vercel.app)** 
+https://stratos-ai-sigma.vercel.app/
 ---
 
 ## 💡 What is StratosAI?
